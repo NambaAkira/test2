@@ -10,7 +10,7 @@ func sum(a int) int {
 func main() {
 
 	fmt.Println("hello_world")
-	fmt.Println("good_morning")
+	fmt.Println("good_evening")
 
 	a := 5
 	fmt.Println("before: a = ", a)
